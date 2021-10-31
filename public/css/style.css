@@ -1,0 +1,78 @@
+body{
+    font-family: sans-serif;
+}
+
+.header{
+    width: 100%;
+    height: 57px;
+    border-bottom: 0.5;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+li {
+    list-style: none;
+  }
+  .header-left {
+    float: left;
+  }
+  
+  .header-right {
+    display: inline-flex;
+    float: right;
+    margin-right: 20px;
+    height: 40px;
+    margin-top:5px;
+  }
+
+  .header-list li {
+    float: left;
+    margin: 0px 0px 0px 25px;
+    padding: 15px 16px 15px 16px;
+  }
+
+  .contents {
+    height: 500px;
+    margin-top: 70px;
+  }
+
+  .contents-item {
+    float: left;
+    margin-right: 40px;
+    border: black;
+  }
+
+  .banner{
+      background-image:url(https://www.halodoc.com/assets/img/home-v2/webp/home-banner-v3.svg);
+      padding-top: 90px;
+      background-size: cover;
+      text-align: center;
+      width: 100%;
+      height: 450px;
+  }
+
+  .banner h1{
+      text-align: left;
+  }
+
+  .banner p{
+      text-align: left;
+      width: 50%;
+  }
+
+  .contents-item p {
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .konten{
+      margin-top: 50px;
+      text-align: center;
+  }
+
+  .konten h2{
+    text-align: left;
+}
