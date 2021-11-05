@@ -7,28 +7,39 @@
     </div>
     <div class="contents">
         <div class="container">
-            <div class="contents-item">
-                <img src="https://www.halodoc.com/assets/img/home-v2/webp/chat-doctor-v2.webp" height="62">
-                <p>Chat dengan Dokter</p>
-            </div>
-            <div class="contents-item">
-                <img src="https://www.halodoc.com/assets/img/home-v2/webp/health-store-v2.webp" height="62">
-                <p>Toko Kesehatan</p>
-            </div>
-            <div class="contents-item">
-                <img src="https://www.halodoc.com/assets/img/home-v2/webp/visit-hospital-v2.webp" height="62">
-                <p>Buat Janji RS</p>
-            </div>
-            <div class="contents-item">
-                <img src="https://www.halodoc.com/assets/svg/cari-dokter-icon.webp" height="62">
-                <p>Cari Dokter</p>
-            </div>
-            <div class="contents-item">
-                <img src="https://www.halodoc.com/assets/svg/insurance-icon.webp" height="62">
-                <p>Hubungkan Asuransi</p>
-            </div>
+            <a target ="_blank" href="https://www.halodoc.com/tanya-dokter" style="text-decoration: none; color:black">
+                <div class="contents-item" style="background-color:white;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);; padding:10px">
+                    <img src="https://www.halodoc.com/assets/img/home-v2/webp/chat-doctor-v2.webp" height="62">
+                    <p>Chat dengan Dokter</p>
+                </div>
+            </a>
+            <a target ="_blank" href="https://www.halodoc.com/obat-dan-vitamin" style="text-decoration: none; color:black">
+                <div class="contents-item" style="background-color:white;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);; padding:10px">
+                    <img src="https://www.halodoc.com/assets/img/home-v2/webp/health-store-v2.webp" height="62">
+                    <p>Toko Kesehatan</p>
+                </div>
+            </a>
+            <a target ="_blank" href="https://www.halodoc.com/rumah-sakit" style="text-decoration: none; color:black">
+                <div class="contents-item" style="background-color:white;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);; padding:10px">
+                    <img src="https://www.halodoc.com/assets/img/home-v2/webp/visit-hospital-v2.webp" height="62">
+                    <p>Buat Janji RS</p>
+                </div>
+            </a>
+            <a target ="_blank" href="https://www.halodoc.com/cari-dokter" style="text-decoration: none; color:black">
+                <div class="contents-item" style="background-color:white;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);; padding:10px">
+                    <img src="https://www.halodoc.com/assets/svg/cari-dokter-icon.webp" height="62">
+                    <p>Cari Dokter</p>
+                </div>
+            </a>
+            <a href="#" style="text-decoration: none; color:black">
+                <div class="contents-item" style="background-color:white;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);; padding:10px">
+                    <img src="https://www.halodoc.com/assets/svg/insurance-icon.webp" height="62">
+                    <p>Hubungkan Asuransi</p>
+                </div>
+            </a>
         </div>
     </div>
+</div>
 </div>
 <div class="konten">
     <div class="container">
