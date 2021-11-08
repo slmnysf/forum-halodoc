@@ -16,14 +16,11 @@ use Illuminate\Auth\Events\Logout;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/welcome', function () {
-    return view('welcome');
+    return view('beranda');
 });
 Route::get('/beranda', function () {
     return view('beranda');
-})->middleware('auth');
+});
 
 Route::get('/diskusi','DiskusiController@index')->middleware('auth');
 Route::get('/checkup','CheckupController@index')->middleware('auth');

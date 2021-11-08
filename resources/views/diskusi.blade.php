@@ -51,6 +51,4 @@
             @endforeach
         </ul>
         {{ $forum->links() }}
-</body>
-</html>
 @endsection

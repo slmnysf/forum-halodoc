@@ -110,8 +110,6 @@
     </div>
   </div>
 </div>
-</body>
-<footer>
   <script>
   var hasil = 0;
   var x = document.getElementById("solusi");
@@ -137,6 +135,4 @@
     z.style.display = "inline-block";
   }
   </script>
-</footer>
-</html>
 @endsection

@@ -16,7 +16,4 @@
         </form>
         <p style="margin-top: 20px">Belum punya akun? <a href="/registrasi">Daftar Disini</a></p>
     </div>
-</body>
-
-</html>
 @endsection
